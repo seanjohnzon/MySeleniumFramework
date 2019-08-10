@@ -15,6 +15,7 @@ import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.concurrent.TimeUnit;
 
@@ -42,7 +43,7 @@ public class TestBase {
         if (test == null) {
             test = "reports";
         }
-        String filePath = System.getProperty("user.dir") + "/test-output/" + test + "/" + LocalDate.now().format(DateTimeFormatter.ofPattern("MM_dd_yyyy")) + "/report.html";
+        String filePath = System.getProperty("user.dir") + "/test-output/" + test + "/" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy_MMdd_hh_mm_ss_a")) + "/report.html";
         htmlReporter = new ExtentHtmlReporter(filePath);
         logger.info("Report path: "+filePath);
         report.attachReporter(htmlReporter);

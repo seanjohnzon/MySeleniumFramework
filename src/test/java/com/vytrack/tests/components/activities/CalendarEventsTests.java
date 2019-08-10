@@ -22,7 +22,7 @@ public class CalendarEventsTests extends TestBase {
 
         //deselect title option from grid settings
         pages.calendarEventsPage().selectGridSetting("Title", false);
-        BrowserUtils.waitPlease(3);
+        BrowserUtils.waitPlease(5);
 
         //Verify that title column name is not visible any more
         Assert.assertFalse(pages.calendarEventsPage().verifyHeaderExists("Title"), "Title column name still visible.");
@@ -146,5 +146,6 @@ public class CalendarEventsTests extends TestBase {
         Assert.assertEquals(pages.calendarEventsPage().getEndTime(), "12:30 AM");
         extentLogger.pass("Verified that end time is 12:30 AM.");
     }
+
 
 }

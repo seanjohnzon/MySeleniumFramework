@@ -1,0 +1,410 @@
+2019-08-05 03:34:23 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_34_23_AM/report.html
+2019-08-05 03:34:29 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:34:38 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:34:46 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:34:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:34:57 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:34:58 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:37:09 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_37_09_AM/report.html
+2019-08-05 03:37:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:37:21 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:37:29 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:37:36 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:37:39 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:37:40 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:38:45 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_38_45_AM/report.html
+2019-08-05 03:38:50 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:38:59 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:39:09 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:39:25 [main] ERROR BasePage:83 - Failed to click on :: Vehicle Contracts
+2019-08-05 03:39:25 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Vehicle Contracts' and contains(@class, 'title title-level-2')] (tried for 8 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.fios-router.home', ip: 'fe80:0:0:0:c30:5a13:5e3e:c4e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:55427}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d34e3a5412f72423393533fd3abe6250
+2019-08-05 03:40:17 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:40:25 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:40:35 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:40:41 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:41:13 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_41_13_AM/report.html
+2019-08-05 03:41:17 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:41:25 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:41:32 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:41:39 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:41:42 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:41:43 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:43:26 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_43_25_AM/report.html
+2019-08-05 03:43:29 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:37 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:44 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:51 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:58 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:43:59 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:46:42 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_46_42_AM/report.html
+2019-08-05 03:46:45 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:46:46 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 03:47:57 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_47_57_AM/report.html
+2019-08-05 03:48:01 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:09 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:16 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:23 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:26 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:30 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 03:48:30 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 15:58:59 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_03_58_59_PM/report.html
+2019-08-05 15:59:06 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:14 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:21 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:28 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:35 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:38 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 15:59:39 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 16:07:25 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_04_07_25_PM/report.html
+2019-08-05 16:07:28 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:36 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:43 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:50 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:57 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:07:58 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 16:08:54 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_04_08_54_PM/report.html
+2019-08-05 16:08:58 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:09:05 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:09:12 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:09:19 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:09:22 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:09:23 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 16:10:05 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_04_10_05_PM/report.html
+2019-08-05 16:10:08 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:16 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:24 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:30 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:37 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:40 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:10:41 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 16:11:24 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_04_11_24_PM/report.html
+2019-08-05 16:11:27 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:11:35 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:11:41 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:11:48 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:11:52 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 16:11:53 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 18:33:16 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_06_33_16_PM/report.html
+2019-08-05 18:33:21 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:29 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:36 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:42 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:49 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:53 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:33:53 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 18:38:20 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_06_38_20_PM/report.html
+2019-08-05 18:38:24 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:38:32 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:38:41 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:38:49 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:38:57 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:01 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:04 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:21 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:29 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:37 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:41 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:39:42 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 18:54:43 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_06_54_43_PM/report.html
+2019-08-05 18:54:47 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:54:58 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:55:08 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:55:24 [main] ERROR BasePage:83 - Failed to click on :: Vehicle Contracts
+2019-08-05 18:55:24 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Vehicle Contracts' and contains(@class, 'title title-level-2')] (tried for 8 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.fios-router.home', ip: 'fe80:0:0:0:c30:5a13:5e3e:c4e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:60878}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5b0d7ea5961074ced7cf4885bd55deb9
+2019-08-05 18:56:15 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:56:26 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:56:36 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:56:44 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 18:57:40 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_06_57_40_PM/report.html
+2019-08-05 18:57:45 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:57:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:58:07 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:58:21 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:58:30 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:58:40 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:58:47 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 18:59:14 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_06_59_13_PM/report.html
+2019-08-05 18:59:19 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:59:28 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:59:40 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 18:59:53 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 19:00:03 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 19:00:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-05 19:00:20 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 20:29:49 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_08_29_49_PM/report.html
+2019-08-05 20:29:54 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:03 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:21 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:29 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:30:34 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-05 20:44:31 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0805_08_44_30_PM/report.html
+2019-08-05 20:44:35 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:44:46 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:01 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:27 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:44 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:51 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:45:57 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:46:00 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-05 20:46:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-06 14:53:02 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0806_02_53_02_PM/report.html
+2019-08-06 14:53:08 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:53:21 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:53:33 [main] ERROR BasePage:83 - Failed to click on :: Calendar Events
+2019-08-06 14:53:33 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 8 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.fios-router.home', ip: 'fe80:0:0:0:c30:5a13:5e3e:c4e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:63955}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 161b2fa4be303008db2be08b922beaf6
+2019-08-06 14:54:37 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-06 14:54:45 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:54:56 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:10 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:22 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:30 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:38 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:45 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:48 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:55:49 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-06 14:58:11 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0806_02_58_11_PM/report.html
+2019-08-06 14:58:15 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 14:58:30 [main] ERROR BasePage:83 - Failed to click on :: Calendar Events
+2019-08-06 14:58:30 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.fios-router.home', ip: 'fe80:0:0:0:c30:5a13:5e3e:c4e9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:64235}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ee9ff278d950d4568195b0a8bc274e5d
+2019-08-06 14:59:46 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-06 14:59:54 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:00:09 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:00:21 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:00:35 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:00:47 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:00:55 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:01:03 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:01:11 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:01:14 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:01:15 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-06 15:02:03 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0806_03_02_03_PM/report.html
+2019-08-06 15:02:07 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:02:19 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:02:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:02:46 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:01 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:21 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:29 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:36 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:40 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:03:41 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-06 15:06:40 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0806_03_06_40_PM/report.html
+2019-08-06 15:06:44 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:06:56 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:07:11 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:07:22 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:07:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:07:48 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:07:56 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:08:04 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:08:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:08:15 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-06 15:08:16 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:12:24 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_12_24_PM/report.html
+2019-08-09 17:12:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:12:40 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:20:14 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_20_14_PM/report.html
+2019-08-09 17:20:18 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:20:25 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:21:33 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_21_33_PM/report.html
+2019-08-09 17:21:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:21:43 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:22:05 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_22_05_PM/report.html
+2019-08-09 17:22:09 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:22:25 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:24:31 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_24_31_PM/report.html
+2019-08-09 17:24:34 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:24:50 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:25:16 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_25_16_PM/report.html
+2019-08-09 17:25:19 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:25:25 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:29:54 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_29_54_PM/report.html
+2019-08-09 17:29:58 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:30:07 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:55390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 566e8a0d9af0f28be6ab4c7332ec9e11
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:30:13 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:31:07 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_31_07_PM/report.html
+2019-08-09 17:31:11 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:31:21 [main] ERROR BrowserUtils:288 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:55708}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0804d6cb6ec8715599f99a50e2cef588
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:31:21 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:32:08 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_32_08_PM/report.html
+2019-08-09 17:32:11 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:32:21 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:55979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 23d579d1bd5c80610f8ce831fc42738e
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:32:27 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:33:39 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_33_39_PM/report.html
+2019-08-09 17:33:42 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:33:52 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:56370}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 766631deed65a12b738a8c684b2fd1e4
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:33:58 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:34:56 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_34_56_PM/report.html
+2019-08-09 17:35:00 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:35:10 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:56716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b574b779e2e4f1f1f2f65d2f9906b216
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:35:15 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:36:13 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_36_13_PM/report.html
+2019-08-09 17:36:17 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:36:31 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:57051}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6ef2bce93da6e0d95b075c35715aae67
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:36:37 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:44:31 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_44_31_PM/report.html
+2019-08-09 17:44:35 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:44:45 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:59168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0153b0214514697718ad6d20688f42a2
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:44:51 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:45:16 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_45_16_PM/report.html
+2019-08-09 17:45:20 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:45:30 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:59386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: db43a970c0439cc010b34648533399b3
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:45:36 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:45:55 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_45_55_PM/report.html
+2019-08-09 17:45:59 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:46:09 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:59569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 35ff7b0487c4ca4448273f581a7cfad3
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:46:11 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:46:29 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_46_29_PM/report.html
+2019-08-09 17:46:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:46:39 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 17:47:32 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_05_47_32_PM/report.html
+2019-08-09 17:47:36 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 17:47:46 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:60014}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cee24bc468b7d29c59942949ece6ff6a
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 17:47:47 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:39:45 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_39_45_PM/report.html
+2019-08-09 18:39:50 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:40:00 [main] ERROR BrowserUtils:304 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".loader\-mask\ shown"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'johnzons-Air.home', ip: 'fe80:0:0:0:c3f:6efd:ef5e:2d2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/zv/pykdrfjn2xb...}, goog:chromeOptions: {debuggerAddress: localhost:57590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 722a57f0f1c08de059ffc9f8b558762f
+*** Element info: {Using=class name, value=loader-mask shown}
+2019-08-09 18:40:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:43:36 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_43_36_PM/report.html
+2019-08-09 18:43:40 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:43:49 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:46:11 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_46_11_PM/report.html
+2019-08-09 18:46:15 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:46:24 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:48:39 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_48_39_PM/report.html
+2019-08-09 18:48:43 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:48:55 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:50:37 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_50_36_PM/report.html
+2019-08-09 18:50:40 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:50:53 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:52:57 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_52_56_PM/report.html
+2019-08-09 18:53:00 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:53:13 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:54:25 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_54_25_PM/report.html
+2019-08-09 18:54:29 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:54:46 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:56:00 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_56_00_PM/report.html
+2019-08-09 18:56:04 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:56:17 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 18:58:33 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_06_58_32_PM/report.html
+2019-08-09 18:58:36 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 18:58:50 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 19:03:25 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_07_03_25_PM/report.html
+2019-08-09 19:03:29 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 19:03:43 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::

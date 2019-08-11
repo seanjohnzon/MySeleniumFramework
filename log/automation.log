@@ -408,3 +408,100 @@ Session ID: 722a57f0f1c08de059ffc9f8b558762f
 2019-08-09 19:03:25 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_07_03_25_PM/report.html
 2019-08-09 19:03:29 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
 2019-08-09 19:03:43 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:23:25 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_23_25_PM/report.html
+2019-08-09 21:23:30 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:23:36 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:23:50 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_23_50_PM/report.html
+2019-08-09 21:23:54 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:24:06 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:24:46 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_24_45_PM/report.html
+2019-08-09 21:24:49 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:24:57 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:44:57 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_44_57_PM/report.html
+2019-08-09 21:45:02 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:45:15 [main] ERROR BasePage:83 - Failed to click on :: Activities
+2019-08-09 21:45:15 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[normalize-space()='Activities' and contains(@class, 'title title-level-2')] (tried for 8 second(s) with 500 milliseconds interval)
+2019-08-09 21:45:21 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:48:31 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_48_30_PM/report.html
+2019-08-09 21:48:34 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:48:47 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:51:33 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_51_33_PM/report.html
+2019-08-09 21:51:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:51:50 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:53:29 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_53_28_PM/report.html
+2019-08-09 21:53:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:53:45 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:59:06 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_59_06_PM/report.html
+2019-08-09 21:59:10 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 21:59:21 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 21:59:45 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_09_59_45_PM/report.html
+2019-08-09 21:59:49 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:00:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:00:14 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_00_14_PM/report.html
+2019-08-09 22:00:18 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:00:29 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:20:45 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_20_45_PM/report.html
+2019-08-09 22:20:49 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:21:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:22:11 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_22_11_PM/report.html
+2019-08-09 22:22:14 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:22:26 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:24:19 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_24_19_PM/report.html
+2019-08-09 22:24:22 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-09 22:24:32 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:26:38 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_26_38_PM/report.html
+2019-08-09 22:26:42 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-09 22:26:52 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:32:58 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_32_58_PM/report.html
+2019-08-09 22:33:02 [main] INFO  TestBase:72 - URL: http://qa1.vytrack.com/user/login
+2019-08-09 22:33:12 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:35:32 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_35_32_PM/report.html
+2019-08-09 22:35:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:35:49 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 22:40:47 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_10_40_47_PM/report.html
+2019-08-09 22:40:51 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:41:04 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:41:19 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:41:31 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:41:46 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 22:41:56 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:14:13 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_14_13_PM/report.html
+2019-08-09 23:14:17 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:14:28 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:14:54 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_14_54_PM/report.html
+2019-08-09 23:14:58 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:15:10 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:16:15 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_16_15_PM/report.html
+2019-08-09 23:16:18 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:16:30 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:17:08 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_17_08_PM/report.html
+2019-08-09 23:17:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:17:22 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:55:40 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_55_40_PM/report.html
+2019-08-09 23:55:44 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:55:44 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:56:42 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_56_42_PM/report.html
+2019-08-09 23:56:46 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:56:47 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:57:33 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_57_33_PM/report.html
+2019-08-09 23:57:37 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:57:37 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:58:12 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_58_12_PM/report.html
+2019-08-09 23:58:16 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:58:17 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:58:53 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_58_52_PM/report.html
+2019-08-09 23:58:57 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-09 23:59:09 [main] ERROR BasePage:83 - Failed to click on :: Vehicles
+2019-08-09 23:59:09 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Vehicles' and contains(@class, 'title title-level-2')] (tried for 8 second(s) with 500 milliseconds interval)
+2019-08-09 23:59:09 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-09 23:59:48 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0809_11_59_48_PM/report.html
+2019-08-09 23:59:53 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:00:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-10 00:10:46 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0810_12_10_46_AM/report.html
+2019-08-10 00:10:50 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:11:00 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:14:08 [main] INFO  TestBase:48 - Report path: /Users/johnzonsean/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/2019_0810_12_14_08_AM/report.html
+2019-08-10 00:14:12 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:14:20 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:14:33 [main] INFO  TestBase:72 - URL: http://qa3.vytrack.com/user/login
+2019-08-10 00:14:44 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::

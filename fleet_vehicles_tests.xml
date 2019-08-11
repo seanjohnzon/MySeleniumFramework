@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Fleet Vehicles Parallel Testing">
+    <test name="Parallel Tests Using Chrome">
+        <classes>
+            <class name="com.vytrack.tests.components.activities.FleetVehiclesTest"></class>
+        </classes>
+
+    </test>
+
+</suite>

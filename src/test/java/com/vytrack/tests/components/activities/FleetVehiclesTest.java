@@ -13,63 +13,120 @@ import java.util.Collections;
 import java.util.List;
 
 public class FleetVehiclesTest extends TestBase {
-    @Test
-    public void verifyDefaultAscendingOrder() {
-        extentLogger = report.createTest("• Verify that all records that are displayed are sorted by LICENSE PLATE in Ascending order");
+    @Test(description = "Verify that all records that are displayed are sorted by LICENSE PLATE in Ascending and Descending order")
+    public void verifyLicensePlateSort() {
+        extentLogger = report.createTest("Verify that all records that are displayed are sorted by LICENSE PLATE in Ascending and Descending order");
 
-        String username = ConfigurationReader.getProperty("username");
-        String password = ConfigurationReader.getProperty("password");
+        String username = ConfigurationReader.getProperty("salesmanagerusername");
+        String password = ConfigurationReader.getProperty("salesmanagerpassword");
 
         pages.loginPage().login(username, password);
 
-        pages.dashboardPage().navigateToModule("Fleet", "Vehicles");
+        pages.fleetActivitiesPage().navigatePage();
 
-        String licensexPath = "//span[starts-with (text(), \"License Plate\")]";
+        pages.fleetActivitiesPage().waitUntilLoaderScreenDisappear();
 
-        BrowserUtils.waitPlease(2);
-
-        driver.findElement(By.xpath(licensexPath)).click();
+        pages.fleetActivitiesPage().licensePlateTab.click();
         BrowserUtils.waitPlease(1);
 
 
-        List<WebElement> LicensePlates = driver.findElements(By.xpath("//td[contains (@class, \"LicensePlate\")]"));
+        List<WebElement> LicensePlates = driver.findElements(By.xpath(pages.fleetActivitiesPage().licensePlates));
 
         BrowserUtils.waitPlease(1);
 
         List<String> actualResult = new ArrayList<>();
-        List<String> order = new ArrayList<>();
-        int k = 0;
+        List<String> expectedResult = new ArrayList<>();
+        boolean check = pages.fleetActivitiesPage().ascendingOrder(actualResult, expectedResult, LicensePlates);
 
-        for (int i = 0; i < LicensePlates.size(); i++) {
-            actualResult.add(LicensePlates.get(k).getText());
-            order.add(LicensePlates.get(k).getText());
-            k++;
-        }
+        Assert.assertTrue(check);
+        extentLogger.pass("Verified that all records that are displayed are sorted by LICENSE PLATE in Ascending order");
 
-        Collections.sort(order);
+        pages.fleetActivitiesPage().licensePlateTab.click();
+        extentLogger.info("click on License Plate Tabs on the Table");
+        BrowserUtils.waitPlease(2);
 
-        System.out.println(order + "/n" + actualResult);
-
-        Assert.assertEquals(order, actualResult);
-        BrowserUtils.waitPlease(1);
-
-        driver.findElement(By.xpath(licensexPath)).click();
-        BrowserUtils.waitPlease(3);
-
-        List<WebElement> LicensePlates2 = driver.findElements(By.xpath("//td[contains (@class, \"LicensePlate\")]"));
+        List<WebElement> LicensePlates2 = driver.findElements(By.xpath(pages.fleetActivitiesPage().licensePlates));
 
 
         List<String> actualResult2 = new ArrayList<>();
-        int j = 0;
+        boolean check2 = pages.fleetActivitiesPage().descendingAfterAscending(actualResult2, expectedResult, LicensePlates2);
 
-        for (int i = 0; i < LicensePlates2.size(); i++) {
-            actualResult2.add(LicensePlates2.get(j).getText());
-            j++;
-        }
+        Assert.assertTrue(check2);
+        extentLogger.pass("Verified that all records that are displayed are sorted by LICENSE PLATE in Descending order");
+    }
+    @Test
+    public void verifyDriverSort(){
+        extentLogger = report.createTest("Verify that all records that are displayed are sorted by DRIVER in Ascending and Descending order");
 
-        Collections.reverse(order);
+        String username = ConfigurationReader.getProperty("salesmanagerusername");
+        String password = ConfigurationReader.getProperty("salesmanagerpassword");
 
-        Assert.assertEquals(actualResult2, order);
+        pages.loginPage().login(username, password);
+
+        pages.fleetActivitiesPage().navigatePage();
+
+        pages.fleetActivitiesPage().waitUntilLoaderScreenDisappear();
+
+        pages.fleetActivitiesPage().driverTab.click();
+        extentLogger.info("click on Driver Tabs on the Table");
+        BrowserUtils.waitPlease(1);
+
+
+        List<WebElement> drivers = driver.findElements(By.xpath(pages.fleetActivitiesPage().drivers));
+
+        BrowserUtils.waitPlease(1);
+
+        List<String> actualResult = new ArrayList<>();
+        List<String> expectedResult = new ArrayList<>();
+        boolean check = pages.fleetActivitiesPage().ascendingOrder(actualResult, expectedResult, drivers);
+
+        System.out.println(actualResult +"\n" +expectedResult);
+        Assert.assertTrue(check);
+        extentLogger.pass("Verified that all records that are displayed are sorted by DRIVER in Ascending order");
+
+        pages.fleetActivitiesPage().driverTab.click();
+        BrowserUtils.waitPlease(2);
+
+        List<WebElement> drivers2 = driver.findElements(By.xpath(pages.fleetActivitiesPage().drivers));
+
+
+        List<String> actualResult2 = new ArrayList<>();
+        boolean check2 = pages.fleetActivitiesPage().descendingAfterAscending(actualResult2, expectedResult, drivers2);
+
+        System.out.println(actualResult2 +"\n"+expectedResult);
+        Assert.assertTrue(check2);
+        extentLogger.pass("Verified that all records that are displayed are sorted by DRIVER in Descending order");
+    }
+    @Test(description = "Verify that none of the checkboxes on the left side of the table are selected")
+    public void verifyCheckBox(){
+        extentLogger = report.createTest("Verify that none of the checkboxes on the left side of the table are selected");
+
+        String username = ConfigurationReader.getProperty("salesmanagerusername");
+        String password = ConfigurationReader.getProperty("salesmanagerpassword");
+
+        pages.loginPage().login(username, password);
+
+        pages.fleetActivitiesPage().navigatePage();
+
+        pages.fleetActivitiesPage().waitUntilLoaderScreenDisappear();
+
+        List<WebElement> checkBoxes = driver.findElements(By.xpath(pages.fleetActivitiesPage().checkBoxes));
+
+        boolean check = pages.fleetActivitiesPage().checkBoxNotChecked(checkBoxes);
+
+        Assert.assertTrue(check);
+        extentLogger.pass("Verified that none of the checkboxes on the left side of the table are selected");
+
+        pages.fleetActivitiesPage().checkBox.click();
+        extentLogger.info("Click on the CheckBox on the Headers Row");
+
+        List<WebElement> checkBoxes2 = driver.findElements(By.xpath(pages.fleetActivitiesPage().checkBoxes));
+
+        boolean check2 = pages.fleetActivitiesPage().checkBoxChecked(checkBoxes2);
+
+        Assert.assertTrue(check2);
+        extentLogger.pass("Verified that all of the checkboxes on the left side of the table are selected");
+
     }
 
 }

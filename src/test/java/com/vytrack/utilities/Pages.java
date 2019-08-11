@@ -1,6 +1,7 @@
 package com.vytrack.utilities;
 
 import com.vytrack.pages.activites.CalendarEventsPage;
+import com.vytrack.pages.activites.FleetVehiclesPage;
 import com.vytrack.pages.dashboards.DashboardPage;
 import com.vytrack.pages.dashboards.ManageDashboards;
 import com.vytrack.pages.login_navigation.LoginPage;
@@ -10,6 +11,7 @@ public class Pages {
     private CalendarEventsPage calendarEventsPage;
     private DashboardPage dashboardPage;
     private ManageDashboards manageDashboards;
+    private FleetVehiclesPage fleetVehiclesPage;
 
 
     public LoginPage loginPage() {
@@ -38,5 +40,12 @@ public class Pages {
             manageDashboards = new ManageDashboards();
         }
         return manageDashboards;
+    }
+
+    public FleetVehiclesPage fleetActivitiesPage() {
+        if(fleetVehiclesPage == null) {
+            fleetVehiclesPage = new FleetVehiclesPage();
+        }
+        return fleetVehiclesPage;
     }
 }
